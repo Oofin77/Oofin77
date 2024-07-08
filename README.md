@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Oofin77/Oofin77/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/Oofin77/Oofin77/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
