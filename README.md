@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Oofin and I'm a coder, from Canada</h2>
+<h2 align="left">Hi 👋! My name is Oofin and I'm a coder, from Canada. This is a brand new account</h2>
 
 ###
 
