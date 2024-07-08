@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Oofin and I'm a coder, from Canada</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/72951436?s=400&u=7adb8d57cf0ee1ad234e4dc4028d494bb8d39e61&v=4"  />
 
 ###
 
